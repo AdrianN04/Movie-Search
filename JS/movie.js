@@ -1,5 +1,5 @@
 // API KEYS 
-const movieDetailsApi = "http://www.omdbapi.com/?apikey=fe7364b5&r=json&plot=full&i=";
+const movieDetailsApi = /*Insert your link here*/;
 
 //global variables
 const queryString = window.location.search;
