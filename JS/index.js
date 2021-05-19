@@ -1,5 +1,5 @@
 // API KEYS 
-const movieListApi = /* Imsert your movie link*/";
+const movieListApi = /* Insert your movie link*/";
 
 
 //HTML variables
