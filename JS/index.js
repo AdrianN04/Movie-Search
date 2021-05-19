@@ -1,5 +1,5 @@
 // API KEYS 
-const movieListApi = "http://www.omdbapi.com/?apikey=fe7364b5&r=json&plot=full&s=";
+const movieListApi = /* Imsert your movie link*/";
 
 
 //HTML variables
